@@ -57,52 +57,79 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 # 🛠️ Technical Arsenal
 
-## 🎨 Frontend Development
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap"/>
-</p>
-
----
-
-## ⚙️ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,mongodb,mysql,postgres"/>
-</p>
-
-### Backend Expertise
-
-- ASP.NET Core Web API
-- RESTful API Design
-- JWT Authentication
-- Entity Framework Core
-- SQL Server
-- Clean Architecture
-- Repository Pattern
-- Swagger Documentation
-
----
-
-## 🤖 AI & Automation
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,docker"/>
-</p>
+### 🎨 Frontend
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/N8N-Automation-orange?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/OpenAI-Integration-black?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/LLMs-AI%20Systems-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/AI-Agents-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 
 </p>
 
----
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+</p>
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</p>
+
+</td>
+</tr>
+</table>
 
 # 🏆 Experience & Community
 
@@ -118,13 +145,12 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 | Project | Description | Technologies |
 |---|---|---|
-| 🤖 AITrackit | AI-powered productivity & tracking system | ASP.NET Core, React, OpenAI |
-| 🍽️ Restaurant Management System | Smart restaurant ordering & management platform | React, Firebase, Bootstrap |
-| ⚡ AI Automation Workflows | AI-integrated automation systems using N8N | N8N, OpenAI, APIs |
-| 🌐 University Quiz Platform | Interactive educational web platform | React, Node.js |
-| 🛒 E-Commerce Store | Full-stack online shopping platform | MERN Stack |
-
----
+| 🍽️ Restaurant Management System | Smart restaurant ordering & management platform with admin dashboard and real-time order tracking | React.js, Firebase, Bootstrap |
+| 🌐 University Quiz Platform | Interactive educational quiz platform designed for university students | React.js, Firebase |
+| 🛒 E-Commerce Store | Full-stack e-commerce application with product management and shopping features | React.js, Firebase, Sass |
+| 🤖 AI Automation Systems | AI-powered automation workflows using N8N, APIs, AI Agents, and OpenAI integrations | N8N, OpenAI, APIs |
+| ✈️ AIrRoute | AI-powered travel assistant platform developed during Build with AI Hackathon | Gemini API, AI Chatbot, Dataset Optimization |
+| ❤️ Donate Platform (تبرّع) | Social impact platform connecting donors with people in need while promoting sustainability | Full Stack Web Technologies |
 
 # 📊 GitHub Stats
 
