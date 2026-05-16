@@ -157,26 +157,19 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="180"
-  />
-  
-  <img 
-    src="https://streak-stats.demolab.com?user=mohammadbzoor&theme=tokyonight&hide_border=true&border_radius=15" 
+    src="https://streak-stats.demolab.com?user=mohammadbzoor&theme=tokyonight&hide_border=true&border_radius=15"
     height="180"
   />
 </p>
 
----
-
-# 💻 Top Languages
-
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
-    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
   />
 </p>
 
