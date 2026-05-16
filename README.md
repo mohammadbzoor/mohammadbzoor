@@ -158,11 +158,15 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight&border_radius=15"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mohammadbzoor&theme=tokyonight&border_radius=15"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="180"
+  />
+  
+  <img 
+    src="https://streak-stats.demolab.com?user=mohammadbzoor&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="180"
+  />
 </p>
 
 ---
@@ -170,13 +174,10 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 # 💻 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&border_radius=15"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohammadbzoor&label=Profile%20Views&color=8B0000&style=for-the-badge" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" 
+    height="180"
+  />
 </p>
 
 ---
