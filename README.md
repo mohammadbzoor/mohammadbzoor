@@ -1,24 +1,48 @@
-<h1 align="center">Hi 👋, I'm Mohammad Al Bzoor</h1>
-<h3 align="center">Backend .NET Developer | AI Enthusiast | Full Stack Developer</h3>
+<h1 align="center">Mohammad Al Bzoor</h1>
+
+<h3 align="center">
+Backend Developer 🛠️ | AI Engineer 🤖 | Full Stack Developer 🌐
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=ASP.NET+Core+Developer;Backend+API+Engineer;AI+Powered+Applications;Full+Stack+Developer&center=true&width=600&height=50">
+"Building scalable backend systems, AI-powered applications, and modern web solutions."
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌐 Connect With Me
 
-- 💻 Backend Developer specializing in ASP.NET Core Web API
-- 🤖 Building AI-powered applications
-- 🌐 Full Stack Developer passionate about scalable systems
-- 🎓 Computer Science Student at Al Al-Bayt University
-- 🔥 Interested in System Design & Software Architecture
+<p align="center">
+  <a href="mailto:mohammedbzoor777@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mohammadbzoor">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="https://profile-19e99.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
-## 🛠 Tech Stack
 
-### 🎨 Frontend Development
+# 👨‍💻 About Me
+
+I am a Backend Software Developer focused on building scalable APIs, AI-powered systems, and modern web applications.
+
+- 🔭 Currently working on AI Integrations & Backend Architectures
+- 🤖 Building AI-powered applications using OpenAI & Automation tools
+- ⚙️ Backend Developer specializing in ASP.NET Core Web API
+- 🌱 Learning System Design, DevOps, and scalable architectures
+- 🚀 Passionate about clean code and software engineering best practices
+
+---
+
+# 🛠️ Technical Arsenal
+
+## 🎨 Frontend Development
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
@@ -26,15 +50,26 @@
 
 ---
 
-### ⚙️ Backend Development
+## ⚙️ Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,mongodb,postgres,mysql" />
 </p>
+
+### Backend Expertise
+
+- ASP.NET Core Web API
+- RESTful APIs
+- JWT Authentication
+- Entity Framework Core
+- SQL Server
+- Clean Architecture
+- Repository Pattern
+- Swagger Documentation
 
 ---
 
-### 🤖 AI & Automation
+## 🤖 AI & Automation
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" />
@@ -42,27 +77,43 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/N8N-Automation-orange?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Powered%20Apps-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenAI-Integration-black?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/AI-Powered%20Apps-blueviolet?style=for-the-badge" />
 </p>
 
 ---
 
-### 🛠 Tools & Technologies
+# 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🤖 AITrackit | AI-powered productivity & tracking platform | ASP.NET Core, React, OpenAI |
+| 🛒 StoreReact | Full-stack E-commerce application | React, Node.js, MongoDB |
+| ⚡ AI Automation System | Automated workflows using N8N & AI APIs | N8N, OpenAI, Webhooks |
+| 🌐 Portfolio Website | Personal developer portfolio | React, Tailwind |
+
+---
+
+# ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight" />
 </p>
 
-## ⚡ Backend Expertise
-
-- ASP.NET Core Web API
-- Entity Framework Core
-- Authentication & JWT
-- RESTful APIs
-- SQL Server
-- Clean Architecture
-- Repository Pattern
-- Swagger Documentation
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadbzoor&theme=tokyonight" />
+</p>
 
 ---
+
+# 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <b>Code. Build. Scale. Automate. 🚀</b>
+</p>
