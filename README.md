@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./gitub.png" width="100%" />
+</p>
+
 <h1 align="center">Mohammad Al Bzoor</h1>
 
 <h3 align="center">
@@ -59,6 +63,7 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 <table align="center">
 <tr>
+
 <td align="center" width="33%">
 
 ### 🎨 Frontend
@@ -128,8 +133,11 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 </p>
 
 </td>
+
 </tr>
 </table>
+
+---
 
 # 🏆 Experience & Community
 
@@ -152,14 +160,16 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 | ✈️ AIrRoute | AI-powered travel assistant platform developed during Build with AI Hackathon | Gemini API, AI Chatbot, Dataset Optimization |
 | ❤️ Donate Platform (تبرّع) | Social impact platform connecting donors with people in need while promoting sustainability | Full Stack Web Technologies |
 
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight&border_radius=15"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadbzoor&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=mohammadbzoor&theme=tokyonight&border_radius=15"/>
 </p>
 
 ---
@@ -167,11 +177,17 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 # 💻 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&border_radius=15"/>
 </p>
 
 ---
 
 <p align="center">
-<b>Code. Build. Automate. Scale. 🚀</b>
+<img src="https://komarev.com/ghpvc/?username=mohammadbzoor&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+
+---
+
+<h3 align="center">
+Code. Build. Automate. Scale. 🚀
+</h3>
