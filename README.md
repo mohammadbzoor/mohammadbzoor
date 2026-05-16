@@ -150,8 +150,8 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 | 🌐 University Quiz Platform | Interactive educational quiz platform designed for university students | React.js, Firebase |
 | 🛒 E-Commerce Store | Full-stack e-commerce application with product management and shopping features | React.js, Firebase, Sass |
 | 🤖 AI Automation Systems | AI-powered automation workflows using N8N, APIs, AI Agents, and OpenAI integrations | N8N, OpenAI, APIs |
-| ✈️ AIrRoute | AI-powered travel assistant platform developed during Build with AI Hackathon | Gemini API, AI Chatbot, Dataset Optimization |
-| ❤️ Donate Platform (تبرّع) | Social impact platform connecting donors with people in need while promoting sustainability | Full Stack Web Technologies |
+| ✈️ AIrRoute | Collaborated on building an AI-powered travel assistant platform during the Build with AI Hackathon | Gemini API, AI Chatbot, Dataset Optimization |
+| ❤️ Donate Platform (تبرّع) | Co-developed a social impact platform connecting donors with people in need while promoting sustainability and reducing waste | Full Stack Web Technologies |
 
 ---
 
