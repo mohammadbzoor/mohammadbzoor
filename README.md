@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?lines=ASP.NET+Core+Developer;AI+Automation+Engineer;N8N+Workflow+Builder;Full+Stack+Web+Developer;OpenAI+%26+LLM+Integration&center=true&width=700&height=50&color=8B0000"
+    src="https://readme-typing-svg.herokuapp.com?lines=ASP.NET+Core+Developer;AI+Automation+Engineer;N8N+Workflow+Builder;Full+Stack+Web+Developer;OpenAI+%26+LLM+Integration&center=true&width=700&height=50&color=fff"
   />
 </p>
 
