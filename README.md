@@ -5,14 +5,6 @@
   />
 </p>
 
-<h3 align="center">
-Backend Developer 🛠️ | AI Automation Engineer 🤖 | Full Stack Developer 🌐
-</h3>
-
-<p align="center">
-Building scalable backend systems, AI-powered applications, and intelligent automation workflows.
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=ASP.NET+Core+Developer;AI+Automation+Engineer;N8N+Workflow+Builder;Full+Stack+Web+Developer;OpenAI+%26+LLM+Integration&center=true&width=700&height=50">
 </p>
