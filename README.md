@@ -1,10 +1,9 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4b367c,50:3f5f9f,100:5a7dbb&text=Mohammad%20Al%20Bzoor&fontSize=70&fontAlign=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=22&descAlign=50&descAlignY=55&animation=twinkling&fontColor=ffffff" 
-    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mohammad%20Al%20Bzoor&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&color=gradient&customColorList=24,25,26,27,30&animation=fadeIn&fontColor=ffffff"
+    width="100%"
   />
 </p>
-<h1 align="center">Mohammad Al Bzoor</h1>
 
 <h3 align="center">
 Backend Developer 🛠️ | AI Automation Engineer 🤖 | Full Stack Developer 🌐
@@ -33,7 +32,7 @@ Building scalable backend systems, AI-powered applications, and intelligent auto
 </a>
 
 <a href="https://profaile-19e99.web.app/">
-<img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Website-darkred?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -78,11 +77,11 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-8B0000?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sass-B22222?style=for-the-badge&logo=sass&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-800020?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 </p>
 
@@ -94,17 +93,17 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-800020?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-8B0000?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5C1A1A?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-2B0000?style=for-the-badge&logo=express&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-660000?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-4B0000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 </p>
 
@@ -116,21 +115,21 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-2B0000?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/N8N-8B0000?style=for-the-badge&logo=n8n&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-B22222?style=for-the-badge&logo=firebase&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-800020?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-660000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-5C1A1A?style=for-the-badge&logo=postman&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-8B0000?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-4B0000?style=for-the-badge&logo=docker&logoColor=white"/>
 
 </p>
 
@@ -185,7 +184,7 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohammadbzoor&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=mohammadbzoor&label=Profile%20Views&color=8B0000&style=for-the-badge" />
 </p>
 
 ---
