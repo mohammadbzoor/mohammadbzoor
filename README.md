@@ -16,14 +16,43 @@
 - 🔥 Interested in System Design & Software Architecture
 
 ---
-
 ## 🛠 Tech Stack
 
+### 🎨 Frontend Development
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,nodejs,mongodb,postgresql,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ---
+
+### ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,postgres,mongodb,mysql" />
+</p>
+
+---
+
+### 🤖 AI & Automation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/N8N-Automation-orange?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Powered%20Apps-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI-Integration-black?style=for-the-badge&logo=openai" />
+</p>
+
+---
+
+### 🛠 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,firebase" />
+</p>
 
 ## ⚡ Backend Expertise
 
