@@ -157,8 +157,6 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 # 📊 GitHub Stats
 
-# 📊 GitHub Stats
-
 <p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=mohammadbzoor&theme=tokyonight&hide_border=true&border_radius=15"
@@ -166,9 +164,11 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
   />
 </p>
 
+---
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&cache_seconds=1800"
     height="170"
   />
 </p>
