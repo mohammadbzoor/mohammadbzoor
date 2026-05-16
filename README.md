@@ -1,12 +1,14 @@
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mohammad%20Al%20Bzoor&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&color=gradient&customColorList=24,25,26,27,30&animation=fadeIn&fontColor=ffffff"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mohammad%20Al%20Bzoor&fontSize=60&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&color=gradient&customColorList=2,2,3,5,30&animation=fadeIn&fontColor=ffffff"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=ASP.NET+Core+Developer;AI+Automation+Engineer;N8N+Workflow+Builder;Full+Stack+Web+Developer;OpenAI+%26+LLM+Integration&center=true&width=700&height=50">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?lines=ASP.NET+Core+Developer;AI+Automation+Engineer;N8N+Workflow+Builder;Full+Stack+Web+Developer;OpenAI+%26+LLM+Integration&center=true&width=700&height=50&color=8B0000"
+  />
 </p>
 
 ---
@@ -19,12 +21,12 @@
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/mohammadbzoor">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/mohammed-al-bzoor-774b12329/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/m7mdbzoor/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://profaile-19e99.web.app/">
