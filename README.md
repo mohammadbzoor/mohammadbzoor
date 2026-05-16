@@ -23,6 +23,10 @@
 <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://www.linkedin.com/in/mohammed-al-bzoor-774b12329/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://profaile-19e99.web.app/">
 <img src="https://img.shields.io/badge/Portfolio-Website-darkred?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
