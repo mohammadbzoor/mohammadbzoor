@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="./gitub.png" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4b367c,50:3f5f9f,100:5a7dbb&text=Mohammad%20Al%20Bzoor&fontSize=70&fontAlign=50&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=22&descAlign=50&descAlignY=55&animation=twinkling&fontColor=ffffff" 
+    width="100%" 
+  />
 </p>
-
 <h1 align="center">Mohammad Al Bzoor</h1>
 
 <h3 align="center">
