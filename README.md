@@ -150,15 +150,13 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 # 🚀 Featured Projects
 
-| Project | Description | Technologies |
+| Project | Description | Tech Stack |
 |---|---|---|
-| 🍽️ Restaurant Management System | Smart restaurant ordering & management platform with admin dashboard and real-time order tracking | React.js, Firebase, Bootstrap |
-| 🌐 University Quiz Platform | Interactive educational quiz platform designed for university students | React.js, Firebase |
-| 🛒 E-Commerce Store | Full-stack e-commerce application with product management and shopping features | React.js, Firebase, Sass |
-| 🤖 AI Automation Systems | AI-powered automation workflows using N8N, APIs, AI Agents, and OpenAI integrations | N8N, OpenAI, APIs |
-| ✈️ AIrRoute | Collaborated on building an AI-powered travel assistant platform during the Build with AI Hackathon | Gemini API, AI Chatbot, Dataset Optimization |
-| ❤️ Donate Platform (تبرّع) | Co-developed a social impact platform connecting donors with people in need while promoting sustainability and reducing waste | Full Stack Web Technologies |
-
+| [🛒 E-Commerce REST API](https://github.com/mohammadbzoor/shop-backend) | Production-ready backend with JWT auth, Stripe payments, and full CRUD | Node.js, Express, MongoDB, Stripe |
+| [🤖 AI Resume Analyzer](https://github.com/mohammadbzoor/n8n-ai-resume-analyzer) | AI-powered resume analysis workflow | N8N, OpenAI, Pinecone |
+| [📱 alphav3](https://github.com/mohammadbzoor/alphav3) | Flutter mobile application | Dart, Flutter |
+| [☕ TeslaCoffee](https://github.com/mohammadbzoor/TeslaCoffee) | Full-stack coffee shop platform | ... |
+| [📄 Portfolio Docs](https://github.com/mohammadbzoor/Portfolio-Projects-Docs) | Portfolio documentation | ... |
 ---
 
 # 📊 GitHub Stats
