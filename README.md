@@ -152,7 +152,7 @@ I also enjoy mentoring and sharing knowledge with the developer community throug
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| [🛒 E-Commerce REST API](https://github.com/mohammadbzoor/shop-backend) | Production-ready backend with JWT auth, Stripe payments, and full CRUD | Node.js, Express, MongoDB, Stripe |
+| [🛒 E-Commerce REST API](https://github.com/mohammadbzoor/Portfolio-Projects-Docs/tree/main/ecommerce-backend-api) | Production-ready backend with JWT auth, Stripe payments, and full CRUD | Node.js, Express, MongoDB, Stripe |
 | [🤖 AI Resume Analyzer](https://github.com/mohammadbzoor/n8n-ai-resume-analyzer) | AI-powered resume analysis workflow | N8N, OpenAI, Pinecone |
 | [📱 alphav3](https://github.com/mohammadbzoor/alphav3) | Flutter mobile application | Dart, Flutter |
 | [☕ TeslaCoffee](https://github.com/mohammadbzoor/TeslaCoffee) | Full-stack coffee shop platform | ... |
