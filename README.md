@@ -154,9 +154,10 @@ I also enjoy sharing what I learn — I've delivered a hands-on web development 
 | # | Project | Description | Tech Stack |
 |---|---|---|---|
 | 1 | [🎓 **TechNetwork** *(Graduation Project)*](https://github.com/mohammadbzoor/Portfolio-Projects-Docs/tree/main/technetwork) | AI-powered recruitment platform built with a teammate — developer portfolios, a job board, AI-driven CV analysis with ATS scoring, and semantic candidate matching via vector search | React.js, n8n, OpenAI, Pinecone, Cohere |
-| 2 | [☕ **Tesla Coffee**](https://github.com/mohammadbzoor/TeslaCoffee) | Full cafe & restaurant operations suite — a touch-optimized POS cashier, live inventory CMS, real-time order tracking, and daily financial reporting with Excel export | React 19, Firebase, Framer Motion |
-| 3 | [💰 **Alpha**](https://github.com/mohammadbzoor/AlphaAPP) | Fintech ecosystem combining backend financial logic and database consistency with an AI automation layer, paired with a Flutter mobile client | Node.js, Express, MySQL, n8n, OpenAI, Flutter |
-| 4 | [🛒 **E-Commerce REST API**](https://github.com/mohammadbzoor/Portfolio-Projects-Docs/tree/main/ecommerce-backend-api) | Production-ready e-commerce backend with JWT authentication, Stripe payment integration, and full product/order CRUD | Node.js, Express, MongoDB, Stripe |
+| 2 | [💰 **Alpha**](https://github.com/mohammadbzoor/AlphaAPP) | Fintech ecosystem combining backend financial logic and database consistency with an AI automation layer | Node.js, Express, MySQL, n8n, OpenAI |
+| 3 | [☕ **Tesla Coffee**](https://github.com/mohammadbzoor/TeslaCoffee) | Full cafe & restaurant operations suite — a touch-optimized POS cashier, live inventory CMS, real-time order tracking, and daily financial reporting with Excel export | React 19, Firebase, Framer Motion |
+| 4 | [🛒 **E-Commerce REST API**](https://github.com/mohammadbzoor/E-Commerce-REST-API) | Production-ready e-commerce backend with JWT auth, RBAC, Stripe payments, coupons, wishlists, and advanced filtering/search/pagination | Node.js, Express, MongoDB, Stripe |
+| 5 | [🧠 **Online Quiz Platform**](https://github.com/mohammadbzoor/Portfolio-Projects-Docs/blob/main/online-quiz-platform/README.md) | Educational web app for building and taking timed quizzes, with live scoring and a clean student-facing UI | React.js, Firebase, SCSS |
 
 ---
 
@@ -168,7 +169,7 @@ I also enjoy sharing what I learn — I've delivered a hands-on web development 
     height="180"
   />
   <img 
-    src="https://github-readme-stats-omega-one-44.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-omega-one-44.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true&hide=dart"
     height="180"
   />
 </p>
