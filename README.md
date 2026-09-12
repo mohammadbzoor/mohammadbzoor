@@ -164,11 +164,11 @@ I also enjoy sharing what I learn — I've delivered a hands-on web development 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats-omega-one-44.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-omega-one-44.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
