@@ -168,7 +168,7 @@ I also enjoy sharing what I learn — I've delivered a hands-on web development 
     height="180"
   />
   <img 
-    src="https://github-readme-stats-omega-one-44.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-omega-one-44.vercel.app/api/top-langs/?username=mohammadbzoor&layout=compact&theme=tokyonight&hide_border=true&hide=dart"
     height="180"
   />
 </p>
