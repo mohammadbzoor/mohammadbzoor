@@ -164,7 +164,7 @@ I also enjoy sharing what I learn — I've delivered a hands-on web development 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-omega-one-44.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats-omega-one-44.vercel.app/api?username=mohammadbzoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true"
     height="180"
   />
   <img 
