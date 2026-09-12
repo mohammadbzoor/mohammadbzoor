@@ -155,7 +155,7 @@ I also enjoy sharing what I learn — I've delivered a hands-on web development 
 |---|---|---|---|
 | 1 | [🎓 **TechNetwork** *(Graduation Project)*](https://github.com/mohammadbzoor/Portfolio-Projects-Docs/tree/main/technetwork) | AI-powered recruitment platform built with a teammate — developer portfolios, a job board, AI-driven CV analysis with ATS scoring, and semantic candidate matching via vector search | React.js, n8n, OpenAI, Pinecone, Cohere |
 | 2 | [☕ **Tesla Coffee**](https://github.com/mohammadbzoor/TeslaCoffee) | Full cafe & restaurant operations suite — a touch-optimized POS cashier, live inventory CMS, real-time order tracking, and daily financial reporting with Excel export | React 19, Firebase, Framer Motion |
-| 3 | [💰 **Alpha**](https://github.com/mohammadbzoor/AlphaAPP) | Fintech ecosystem combining backend financial logic and database consistency with an AI automation layer, paired with a Flutter mobile client | Node.js, Express, MySQL, n8n, OpenAI, Flutter |
+| 3 | [💰 **Alpha**](https://github.com/mohammadbzoor/AlphaAPP) | Fintech ecosystem combining backend financial logic and database consistency with an AI automation layer | Node.js, Express, MySQL, n8n, OpenAI |
 | 4 | [🛒 **E-Commerce REST API**](https://github.com/mohammadbzoor/Portfolio-Projects-Docs/tree/main/ecommerce-backend-api) | Production-ready e-commerce backend with JWT authentication, Stripe payment integration, and full product/order CRUD | Node.js, Express, MongoDB, Stripe |
 
 ---
